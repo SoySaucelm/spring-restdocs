@@ -1,12 +1,3 @@
-/**
- * @Project Name :  aframework
- * @Package Name :  com.models.apimodel
- * @Description :  TODO
- * @author :  dell
- * @Creation Date:  2017-08-09 10:55 AM
- * @ModificationHistory Who    When    What
- * --------  ---------  --------------------------
- */
 package com.cf.demo.entity;
 
 import java.util.List;
